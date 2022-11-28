@@ -1,7 +1,6 @@
 Algoritmo "meudiario"
 
-Var
-usuario: caractere
+cadeia usuario
 
 Inicio
 escreva("Informa o seu usuário: ")
